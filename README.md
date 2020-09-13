@@ -21,6 +21,7 @@ These are plain text files (zipped). Each line contains one lemma/token pair sep
 - Polish (pl) (3,296,232 pairs)
 - Portuguese (pt) (850,264 pairs)
 - Romanian (ro) (314,810 pairs)
+- Russian (ru) (537,810 pairs)
 - Scottish Gaelic (gd) (51,624 pairs)
 - Slovak (sk) (858,414 pairs)
 - Slovene (sl) (99,063 pairs)
@@ -44,3 +45,4 @@ Sources
 - [SALDO](http://spraakbanken.gu.se/eng/saldo) morphological lexicon
 - [Irish National Morphology Database](http://www.teanglann.ie/en/gram/_download)
 - Various lists by [Kevin Scannell](https://cadhan.com/)
+- [OpenRussian.org](https://en.openrussian.org/)
