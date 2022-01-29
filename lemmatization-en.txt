@@ -797,7 +797,6 @@ aggravate	aggravates
 aggravate	aggravating
 aggravation	aggravations
 aggregate	aggregated
-aggregate	aggregated.
 aggregate	aggregates
 aggregate	aggregating
 aggregation	aggregations
@@ -1021,7 +1020,6 @@ alloy	alloyed
 alloy	alloying
 alloy	alloys
 all-rounder	all-rounders
-all-rounder	all-rounders.
 allspice	allspices
 allude	alluded
 allude	alludes
@@ -2982,12 +2980,10 @@ behead	beheads
 behemoth	behemoths
 behest	behests
 behind	behinds
-behind	behinds.
 behold	beheld
 behold	beholding
 behold	beholds
 beholder	beholders
-beholder	beholders.
 behoove	behooved
 behoove	behooves
 behoove	behooving
@@ -6470,7 +6466,6 @@ coach-and-four	coach-and-fours
 coachee	coachees
 coachload	coachloads
 coachman	coachmen
-coachman	coachmen.
 co-administration	co-administrations
 coagulant	coagulants
 coagulate	coagulated
@@ -6538,7 +6533,6 @@ cock	cocking
 cock	cocks
 cockatiel	cockatiels
 cockatoo	cockatoos
-cockatoo	cockatoos.
 cock-crow	cock-crows
 cocker	cockers
 cockerel	cockerels
@@ -12671,7 +12665,6 @@ erase	erases
 erase	erasing
 eraser	erasers
 erasure	erasures
-erasures	erasure
 erect	erected
 erect	erecting
 erect	erects
@@ -35185,11 +35178,9 @@ spindle	spindling
 spindly	spindlier
 spindly	spindliest
 spin-drier	spin-driers
-spin-dry	dry
 spin-dry	spin-dried
 spin-dry	spin-dries
 spin-dry	spin-drying
-spin-dry	spun
 spine	spines
 spinel	spinels
 spinet	spinets
